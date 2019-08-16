@@ -1,1 +1,2 @@
-template
+#New Issue
+Issue templateです。
